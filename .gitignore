@@ -30,6 +30,7 @@ Thumbs.db
 # Ignore large repositories
 boston_repo/
 saved_models/
+!saved_models/potatoes.h5
 potatoes.h5
 tf-lite-models/
 test_images_from_internet/
