@@ -14,7 +14,6 @@ models/
 *.h5
 *.keras
 *.tflite
-potato-disease-classification/
 
 # Node and tooling
 node-v24.15.0-win-x64/
