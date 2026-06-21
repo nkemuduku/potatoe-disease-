@@ -1,0 +1,6 @@
+This is a placeholder for potatoes.h5.
+
+The actual HDF5 model file is large and should not be committed directly to git.
+Options:
+- Add the real `potatoes.h5` via Git LFS.
+- Upload it to cloud storage and reference it in `saved_models/README.md`.
